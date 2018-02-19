@@ -1,0 +1,20 @@
+/* Setup */
+@import "base/variables";
+@import "base/fonts";
+
+/* Vendor */
+@import '~bootstrap/scss/bootstrap';
+
+@import "base/globals";
+
+/* Components */
+@import "components/buttons";
+@import "components/forms";
+@import "components/sliders";
+
+/* Layout */
+@import "partials/header";
+@import "partials/footer";
+
+/* Pages */
+@import "pages/homepage";
