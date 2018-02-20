@@ -85,7 +85,7 @@ typings/
 
 # Gradle:
 .idea/**/gradle.xml
-.idea/**/libraries
+.idea/
 
 # CMake
 cmake-build-debug/
@@ -132,4 +132,5 @@ fabric.properties
 
 
 ### Dist files ###
-dist/
+assets/dist/
+mix-manifest\.json
